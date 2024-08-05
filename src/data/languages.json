@@ -341,6 +341,10 @@
             "image": "text"
         },
         {
+            "language": "slint",
+            "image": "slint"
+        },
+        {
             "language": "solidity",
             "image": "solidity"
         },
